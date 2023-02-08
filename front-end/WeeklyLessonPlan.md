@@ -27,7 +27,7 @@ Hook: none
 
 ## Lesson 2
 
-Overview: Consume Swagger API
+Overview: Consume Swagger API && Linter
 
 Library: Swagger Typescript API
 
@@ -77,22 +77,24 @@ CI/CD: build storybook
 
 Config: Storybook config + Storybook plugins, BrowsersListRc, ESLint A11y, ESLint Compat
 
-Hook: none
+Hook: TBD
 
 ## Lesson 5
 
-Overview: Miscellaneous
+Overview: Finish Configuration + Routing
 
-Library: Husky, Axios
+Library: Husky, Axios, React Router
 
 Testing: Test Coverage
 
-Code: TBD
+Code: TBD + basic routing
 
 Plugin: CSpell, Editorconfig
 
 CI/CD: deploy app + storybook
 
 Config: editorConfig, husky, pretty-quick, cspell, update swagger for axios
+
+Hook: TBD
 
 ## Lesson 6

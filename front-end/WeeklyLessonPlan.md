@@ -1,5 +1,12 @@
 # Front-End
 
+- Stay Agile 24/7/365
+- Have all lessons on the org GitHub
+- Keep all lessons purposefully but easy to digest
+- Keep a working Angular, React, Vue, Blazor, Java, .NET app to incorporate all lessons
+- Use a fictional company (Acme Sprocket Co.) for all three examples
+- Put Automated Testing, Tooling, and DevOps first
+
 ## Lesson 1
 
 Overview: Project Creation && Formatting
@@ -76,7 +83,7 @@ Hook: none
 
 Overview: Miscellaneous
 
-Library: Husky
+Library: Husky, Axios
 
 Testing: Test Coverage
 
@@ -86,4 +93,6 @@ Plugin: CSpell, Editorconfig
 
 CI/CD: deploy app + storybook
 
-Config: editorConfig, husky, pretty-quick, cspell
+Config: editorConfig, husky, pretty-quick, cspell, update swagger for axios
+
+## Lesson 6

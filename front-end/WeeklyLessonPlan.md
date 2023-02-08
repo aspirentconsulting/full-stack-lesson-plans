@@ -56,16 +56,34 @@ Hook: none
 
 ## Lesson 4
 
-Overview: Understand Storybook
+Overview: Understand Storybook && Accessibility + Compatibility
 
 Library: Storybook
 
 Code: Button? TBD
 
-Plugin: Storybook ESLint
+Testing: Add tests to storybook
+
+Plugin: Storybook ESLint, BrowsersListRc
 
 CI/CD: build storybook
 
-Config: Storybook config + Storybook plugins
+Config: Storybook config + Storybook plugins, BrowsersListRc, ESLint A11y, ESLint Compat
 
 Hook: none
+
+## Lesson 5
+
+Overview: Miscellaneous
+
+Library: Husky
+
+Testing: Test Coverage
+
+Code: TBD
+
+Plugin: CSpell, Editorconfig
+
+CI/CD: deploy app + storybook
+
+Config: editorConfig, husky, pretty-quick, cspell

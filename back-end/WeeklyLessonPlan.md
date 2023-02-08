@@ -17,7 +17,7 @@ Code: API Specific (annotations/attributes for Swagger)
 
 Testing: Simple Unit Test for Actions/Controllers
 
-Pattern: Fascade
+Pattern: Facade
 
 Config: (if .NET, editorConfig)
 

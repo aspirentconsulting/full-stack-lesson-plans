@@ -15,10 +15,10 @@ Angular - [Built-In Router](https://angular.io/guide/routing-overview)
 1. Defining routes via objects
 
 ```typescript
-const myRoute: Route = [
+const myRoute: Route = {
     path: 'sprockets',
     component: SprocketIndex
-];
+};
 ```
 
 2. Each route takes a path and component
